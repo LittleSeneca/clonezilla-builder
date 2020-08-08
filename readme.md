@@ -1,5 +1,5 @@
 # Introduction
-[Clonezilla is awesome!][https://clonezilla.org/] By default it has a huge amount of power. But, with a bit of
+[Clonezilla is awesome!](https://clonezilla.org/) By default it has a huge amount of power. But, with a bit of
 effort, its existing utility can be greatly expanded. Unfortunately, it can be very cumbersome to unpackage and
 repackage a clonezilla image. That is why I built this tool. It efficiently unpackes and repackes clonezilla 
 images with changes made to the syslinux, live, home, EFI, and Boot folders. Currently, I have added a boot
@@ -16,4 +16,4 @@ Fourth, run the command below from the cloned directory:
 
     sudo ./packer.sh
 
-Fifth, image the resultant .iso file to a usb using the almighty [rufus][https://rufus.ie/]
+Fifth, image the resultant .iso file to a usb using the almighty [rufus](https://rufus.ie/)
